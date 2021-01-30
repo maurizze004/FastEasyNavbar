@@ -1,0 +1,37 @@
+  
+    header{
+        width: 100%;
+        font-family: roboto;
+        font-size: 20px;
+        word-spacing: 15px;
+        height: 80px;
+        background: #557e82;
+    }
+    img{
+        margin-left: 100px;
+        width: 150px;
+        height: 40px;
+        margin-right: 20px;
+        position: absolute;
+        margin-top: 20px;
+        left: 0;
+    }
+    nav{
+        display: inline-block;
+        margin-left: 400px;
+        margin-top: 30px;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+        font-weight: 3em;
+        font-family: roboto;
+        margin-right: 20px;
+        padding: 30px;
+    }
+    a:hover{
+        color: white;
+        font-size: 20px;
+        background: #02b1c2;
+        padding: 27px;
+    }
